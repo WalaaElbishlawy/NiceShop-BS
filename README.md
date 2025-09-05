@@ -30,3 +30,11 @@ CSS3 (custom + Bootstrap 5)
 Bootstrap 5.3
 
 Bootstrap Icons
+
+# 🎨 Customization
+
+Update images in assets/imgs/ with your own product photos.
+
+Modify styles in assets/css/style.css for branding.
+
+Edit index.html to add new categories, products, or sections.
