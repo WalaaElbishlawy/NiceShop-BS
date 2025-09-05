@@ -6,19 +6,19 @@ It provides a clean and modern UI for an e-commerce platform with sections for p
 
 # 🚀 Features
 
-Responsive Navbar with logo, links, dropdown, and search bar.
+- Responsive Navbar with logo, links, dropdown, and search bar.
 
-Hero Section with promotional content and featured product.
+- Hero Section with promotional content and featured product.
 
-Product Categories with cards (best sellers, trending, new arrivals, sales).
+- Product Categories with cards (best sellers, trending, new arrivals, sales).
 
-Stats Section showing customer satisfaction and sales metrics.
+- Stats Section showing customer satisfaction and sales metrics.
 
-Footer with about, shop links, support links, contact info, and social media icons.
+- Footer with about, shop links, support links, contact info, and social media icons.
 
-Built with Bootstrap 5 for responsiveness and styling.
+- Built with Bootstrap 5 for responsiveness and styling.
 
-Bootstrap Icons for cart, wishlist, user, and ratings.
+- Bootstrap Icons for cart, wishlist, user, and ratings.
 
 
 # ⚙️ Technologies Used
