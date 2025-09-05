@@ -23,13 +23,13 @@ It provides a clean and modern UI for an e-commerce platform with sections for p
 
 # ⚙️ Technologies Used
 
-HTML5
+- HTML5
 
-CSS3 (custom + Bootstrap 5)
+- CSS3 (custom + Bootstrap 5)
 
-Bootstrap 5.3
+- Bootstrap 5.3
 
-Bootstrap Icons
+- Bootstrap Icons
 
 # 🎨 Customization
 
