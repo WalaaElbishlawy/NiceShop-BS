@@ -1,10 +1,10 @@
-🛒 NiceShop - Shopping Website
+# 🛒 NiceShop - Shopping Website
 
 This is a responsive shopping website template built with Bootstrap 5 and Bootstrap Icons. 
 
 It provides a clean and modern UI for an e-commerce platform with sections for products, categories, stats, and contact information.
 
-#🚀 Features
+# 🚀 Features
 
 Responsive Navbar with logo, links, dropdown, and search bar.
 
@@ -21,7 +21,7 @@ Built with Bootstrap 5 for responsiveness and styling.
 Bootstrap Icons for cart, wishlist, user, and ratings.
 
 
-##⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 HTML5
 
